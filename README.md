@@ -2,20 +2,22 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 - 🔭 Estou estudando programação na Alura;
-- 🤔 Caso queira me ajudar em meus estudos ou fazer algum projeto inicial, aqui estão os meus contatos📫:<div>
+- 🤔 Caso queira me ajudar em meus estudos ou fazer algum projeto inicial, meus contatos estarão logo abaixo:📫:<div>
+- ⚡ Fato curioso: caso queira saber algo sobre geologia, pode me perguntar, sou formado nesta área😄!
+
 <a href="https://instagram.com/carlo.cardoso.10/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/carlocardosocimidamore" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-- ⚡ Fato curioso: caso queira saber algo sobre geologia, pode me perguntar, sou formado nesta área😄!
 
 # Hello, i'm Carlo Cardoso!
 ## Welcome to my GitHub profile 👋
 - 🔭 I'm studying programming on Alura School;
 - 🤔 If you want to help me with my studies or do an initial project, here are my contacts📫:<div>
+- ⚡ Fun fact: i have a degree in Geology, so you can ask me anything about this area😄!
+
 <a href="https://instagram.com/carlo.cardoso.10/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/carlocardosocimidamore" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-- ⚡ Fun fact: i have a degree in Geology, so you can ask me anything about this area😄!
 
 <img loading="ok" src="https://media1.tenor.com/m/9ItR8nSuxE0AAAAC/thumbs-up-computer.gif"/>
 
